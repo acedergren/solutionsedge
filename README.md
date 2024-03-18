@@ -1,6 +1,6 @@
 # SolutionsEdge
 
-Welcome to SolutionsEdge, the technical nexus for professionals exploring the latest in edge computing and security solutions. Our blog leverages a robust stack comprising Go, Hugo, Decap CMS, and Akamai Cloud Computing services, hosted on Linode's Object Store to deliver in-depth content on technological innovations and industry best practices.
+Welcome to SolutionsEdge, the technical nexus for professionals exploring the latest in edge computing and security solutions. Our blog leverages a robust stack on top of Akamai Cloud Computing services, hosted on Linode's Object Store to deliver in-depth content on technological innovations and industry best practices.
 
 ## Contact
 
